@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Atv3",
+            "request": "launch",
+            "mainClass": "Pratica8.Atv3",
+            "projectName": "java_7cdd0da4"
+        },
+        {
+            "type": "java",
+            "name": "Atv2",
+            "request": "launch",
+            "mainClass": "Pratica8.Atv2",
+            "projectName": "java_7cdd0da4"
+        },
+        {
+            "type": "java",
+            "name": "Atv1",
+            "request": "launch",
+            "mainClass": "Pratica8.Atv1",
+            "projectName": "java_7cdd0da4"
+        },
+        {
+            "type": "java",
+            "name": "Atv3",
+            "request": "launch",
+            "mainClass": "Pratica7.Atv3",
+            "projectName": "java_7cdd0da4"
+        },
+        {
+            "type": "java",
+            "name": "Atv2",
+            "request": "launch",
+            "mainClass": "Pratica7.Atv2",
+            "projectName": "java_7cdd0da4"
+        },
+        {
+            "type": "java",
+            "name": "Atv1",
+            "request": "launch",
+            "mainClass": "Pratica7.Atv1",
+            "projectName": "java_7cdd0da4"
+        }
+    ]
+}
