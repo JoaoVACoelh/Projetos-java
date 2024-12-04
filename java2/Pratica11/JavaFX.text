@@ -1,0 +1,12 @@
+JavaFX
+
+O JavaFX é um toolkit mais moderno e expressivo para a criação de interfaces gráficas ricas em Java. 
+Ele oferece um conjunto de APIs mais simples e intuitivas, além de suporte a gráficos 2D e 3D, animações 
+e efeitos visuais.
+
+Características:
+
+Gráficos avançados: Permite criar interfaces com gráficos 2D e 3D mais sofisticados.
+Linguagem FXML: Permite a criação de interfaces declarativamente, separando a lógica da apresentação.
+Integração com CSS: Permite estilizar as interfaces utilizando CSS.
+Mais leve: Geralmente é considerado mais leve e performático que o Swing.

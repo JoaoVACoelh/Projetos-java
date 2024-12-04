@@ -1,0 +1,13 @@
+Java Swing
+
+O Java Swing é um toolkit de interface gráfica que estende o AWT (Abstract Window Toolkit) e 
+oferece uma ampla gama de componentes visuais, como botões, campos de texto, tabelas e menus. 
+Ele é conhecido por sua portabilidade, permitindo que as aplicações Swing sejam executadas em 
+diversas plataformas sem a necessidade de modificações significativas no código.
+
+Características:
+
+Componentes ricos: Oferece uma grande variedade de componentes customizáveis.
+Portabilidade: Aplicações Swing podem ser executadas em diferentes sistemas operacionais.
+Maduro: É uma tecnologia madura, com uma grande comunidade e muitos recursos disponíveis.
+Pesado: Em comparação com JavaFX, o Swing pode ser considerado mais pesado em termos de consumo de recursos.
